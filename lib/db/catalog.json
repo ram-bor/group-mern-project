@@ -1,0 +1,272 @@
+[
+{
+    "name":"Chocolate Chip Cookie",
+    "category":"Cookie",
+    "description": "Our delicious buttery cookie with generous chunks of dark and milk chocolates.",
+    "image": "https://iambaker.net/wp-content/uploads/2010/09/ccc-3.jpg",
+    "unit": 12,
+    "unitPrice": 25,
+    "inventoryCount": 37
+},
+{
+    "name":"Peanut Butter Cookie",
+    "category":"Cookie",
+    "description": "Sweet Rich, and Gluten Free! this cookie is about as close as you can get to eating peanut butter straight out of the jar with a spoon.",
+    "image": "https://www.jessicagavin.com/wp-content/uploads/2018/12/peanut-butter-cookies-8-1200.jpg",
+    "unit": 12,
+    "unitPrice": 25,
+    "inventoryCount": 12
+},
+{
+    "name":"Snickerdoodle",
+    "category":"Cookie",
+    "description": "A New England classic! Try our buttery sugar cookie with cinnamon and a cinnamon crackle shell.",
+    "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/10/5/0/FN_Trisha-Yearwood-Snickerdoodles_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382541813128.jpeg",
+    "unit": 12,
+    "unitPrice": 25,
+    "inventoryCount": 41
+},
+{
+    "name":"Oatmeal Raisin Cookie",
+    "category":"Cookie",
+    "description": "Possibly the most controversial cookie ever, but sure to please your Grandma, our oatmeal raisin cookie is soft and loaded with golden raisins.",
+    "image": "https://www.aspicyperspective.com/wp-content/uploads/2017/01/the-best-oatmeal-raisin-cookies-12.jpg",
+    "unit": 12,
+    "unitPrice": 25,
+    "inventoryCount": 8
+},
+{
+    "name":"Corn Cookie",
+    "category":"Cookie",
+    "description": "Yup, you read that right. It's like delicious sweet cornbread but in cookie form.",
+    "image": "https://lh5.googleusercontent.com/-qPImm1rQxos/VHQzHZATIRI/AAAAAAAE1fQ/OOZhyzsFGqQ/s800/momofuku-corn-cookies-31.jpg",
+    "unit": 12,
+    "unitPrice": 25,
+    "inventoryCount": 13
+},
+{
+    "name":"Sugar Cookie",
+    "category":"Cookie",
+    "description": "Sometimes the classics are the best. Sweet, buttery, and with just a hint of Vanilla.",
+    "image": "https://www.aspicyperspective.com/wp-content/uploads/2018/10/best-sugar-cookies-1.jpg",
+    "unit": 12,
+    "unitPrice": 25,
+    "inventoryCount": 35
+},
+{
+    "name":"Vanilla/Vanilla Cupcake",
+    "category":"Cupcakes",
+    "description": "The base by which all cupcakes are measured. Fluffy vanilla cake topped with buttery vanilla icing.",
+    "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2014/1/14/0/FN_Cupcakes-App-Go-To-Vanilla-Cupcake_s4x3.jpg.rend.hgtvcom.616.462.suffix/1390332048162.jpeg",
+    "unit": 6,
+    "unitPrice": 25,
+    "inventoryCount": 18
+},
+{
+    "name":"Vanilla/Chocolate Cupcake",
+    "category":"Cupcakes",
+    "description": "Our famous vanilla cake with rich chocolate icing made with 75% cacao dark chocoalte.",
+    "image": "https://images.squarespace-cdn.com/content/v1/557a4441e4b02125b5409a04/1473013844619-3O9EK82IL10RZWJ4L2EH/ke17ZwdGBToddI8pDm48kDEDYh4Y0JGhR6hzuwcJ44gUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc_WPspi7-QrSvUImIB_kEyVcUzAzg2hRR40nlgLXfHkXjVKlDC5fpFActlTo5Uuex/Classic+Vanilla+Cupcake+with+Milk+Chocolate+Frosting",
+    "unit": 6,
+    "unitPrice": 25,
+    "inventoryCount": 13
+},
+{
+    "name":"Death by Chocolate Cupcake",
+    "category":"Cupcakes",
+    "description": "Chocolate cake, filled with fudge, with chocolate icing, and chocolate crunch nonpareils on top. If you don't die, you'll definitely come back for more.",
+    "image": "https://www.handletheheat.com/wp-content/uploads/2018/10/Chocolate-Blackout-Cupcakes-SQUARE.jpg",
+    "unit": 6,
+    "unitPrice": 30,
+    "inventoryCount": 28
+},
+{
+    "name":"Lemon Raspberry Cupcake",
+    "category":"Cupcakes",
+    "description": "Vanilla cake filled to bursting with raspberry compote, topped with a tart whipped lemon chiffon icing.",
+    "image": "https://tidymom.net/blog/wp-content/uploads/2010/04/raspberry-filled-cupcakes-horiz-oic.jpg",
+    "unit": 6,
+    "unitPrice": 30,
+    "inventoryCount": 26
+},
+{
+    "name":"Oreo Cupcake",
+    "category":"Cupcakes",
+    "description": "Chocolate cake with a vanilla cream center, topped with vanilla icing and crushed cookie bits. It's like a real oreo on top of a backwards oreo. Either way it's delicious!",
+    "image": "https://www.onesarcasticbaker.com/wp-content/uploads/2020/06/Oreo-Cupcakes-webfile-3.jpg",
+    "unit": 6,
+    "unitPrice": 30,
+    "inventoryCount": 44
+},
+{
+    "name":"Black Forest Cake",
+    "category":"Cakes",
+    "description": "The classic mix of chocolate and cherry, guaranteed to be a crowd pleaser. Buy two and hide one from your family!",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMckA1nc-Ee9Cun1jlAj_qJevrnI9BOJQKew&usqp=CAU",
+    "unit": 12,
+    "unitPrice": 45,
+    "inventoryCount": 3
+},
+{
+    "name":"Celebration Cake",
+    "category":"Cakes",
+    "description": "Your choice of cake base and frosting flavor, built into an exquisite cake with a custom message.",
+    "image": "https://images-gmi-pmc.edge-generalmills.com/99d8ae9a-737f-491c-a7f7-34b014e5682c.jpg",
+    "unit": 1,
+    "unitPrice": 40,
+    "inventoryCount": 1
+},
+{
+    "name":"Carrot Cake",
+    "category":"Cakes",
+    "description": "Guaranteed to make rabbits wild, we use 4 whole carrots in each cake, and add our signature blend of spices to make it magical. And of course, cream cheese icing.",
+    "image": "https://preppykitchen.com/wp-content/uploads/2018/02/carrot-cake-recipe-b.jpg",
+    "unit": 1,
+    "unitPrice": 45,
+    "inventoryCount": 2
+},
+{
+    "name":"Red Velvet Cake",
+    "category":"Cakes",
+    "description": "Blah blah blah, you're just here for the cream cheese icing, and that's ok.",
+    "image": "https://chelsweets.com/wp-content/uploads/2019/09/uncut-veritcal-red-velvet-735x1103.jpg",
+    "unit": 1,
+    "unitPrice": 38,
+    "inventoryCount": 5
+},
+{
+    "name":"Chocolate Lava Cake",
+    "category":"Cakes",
+    "description": "Rich chocolate cake with a molten core of dark fudge.",
+    "image": "https://preppykitchen.com/wp-content/uploads/2016/03/chocolate-lava-cake-recipe-2.jpg",
+    "unit": 1,
+    "unitPrice": 55,
+    "inventoryCount": 2
+},
+{
+    "name":"Brownie",
+    "category":"Bars",
+    "description": "Our brownies are rich with a nice chew and crackly top. No cake by another name here!",
+    "image": "https://www.cookingclassy.com/wp-content/uploads/2019/05/brownies-22.jpg",
+    "unit": 12,
+    "unitPrice": 35,
+    "inventoryCount": 40
+},
+{
+    "name":"Raspberry Crunch Bar",
+    "category":"Bars",
+    "description": "Cinnamon shortbread topped with a layer of raspberry jam and almond streussel, baked golden brown.",
+    "image": "https://pinchofyum.com/wp-content/uploads/Raspberry-Bars-1-2.jpg",
+    "unit": 12,
+    "unitPrice": 40,
+    "inventoryCount": 18
+},
+{
+    "name":"Lemon Squares",
+    "category":"Bars",
+    "description": "Tart and sweet!",
+    "image": "https://preppykitchen.com/wp-content/uploads/2020/02/Lemon-bars-1x1-2.jpg",
+    "unit": 12,
+    "unitPrice": 38,
+    "inventoryCount": 14
+},
+{
+    "name":"Key Lime Bars",
+    "category":"Bars",
+    "description": "Like a Lemon Square, but with key limes. Oh, and a toasted coconut topping!",
+    "image": "https://s3.amazonaws.com/studio-me/system/photos/photos/000/530/573/large/lime-bars-recipe.jpg?1398459351&id=530573&caption=true",
+    "unit": 12,
+    "unitPrice": 44,
+    "inventoryCount": 24
+},
+{
+    "name":"Croissant",
+    "category":"Breakfast",
+    "description": "The Parisian classic made from scratch with whole butter.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJZhnHg4kqBcjDHlBZhr87n8It2F2NCd-uYA&usqp=CAU",
+    "unit": 6,
+    "unitPrice": 16,
+    "inventoryCount": 12
+},
+{
+    "name":"Chocolate Croissant",
+    "category":"Breakfast",
+    "description": "Flaky croissant enveloping dark chocolate batons.",
+    "image": "https://images.squarespace-cdn.com/content/59cd5b41edaed807ef45c60a/1520112471525-MJ4ILWPDGV20X9QY4X9J/Croissant-2.jpg?format=2500w&content-type=image%2Fjpeg",
+    "unit": 6,
+    "unitPrice": 20,
+    "inventoryCount": 9
+},
+{
+    "name":"Cheese Danish",
+    "category":"Breakfast",
+    "description": "Flaky pastry with a sweet cream cheese center.",
+    "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2018/11/20/0/YW1306_Cheese-Danish_s4x3.jpg.rend.hgtvcom.826.620.suffix/1542724009597.jpeg",
+    "unit": 6,
+    "unitPrice": 20,
+    "inventoryCount": 37
+},
+{
+    "name":"Blueberry Scone",
+    "category":"Breakfast",
+    "description": "Our crumbly, melt-in-your-mouth scone is perfectly balanced with sweet blueberries and lemon icing.",
+    "image": "https://www.justataste.com/wp-content/uploads/2016/05/lemon-blueberry-scones-photo.jpg",
+    "unit": 12,
+    "unitPrice": 25,
+    "inventoryCount": 30
+},
+{
+    "name":"Plain Bagel",
+    "category":"Bagels",
+    "description": "Chewy on the outside, soft on the inside, the closet you can get to NYC without crossing a bridge.",
+    "image": "https://chompies.com/wp-content/uploads/2018/04/plain-bagel-bakery-tempe-az-chompies_747b60395f1966ecca60cf28d8b0de58.jpg",
+    "unit": 4,
+    "unitPrice": 8,
+    "inventoryCount": 29
+},
+{
+    "name":"Cinnnamon Raisin Bagel",
+    "category":"Bagels",
+    "description": "Our (some would say) perfect bagel, kissed with cinnamon and smattered with raisins throughout. Just sweet enough for your tooth.",
+    "image": "https://cdn.shopify.com/s/files/1/0032/7575/1522/products/cinnamon_raisin_bagel1_1024x1024.jpg?v=1539727891",
+    "unit": 4,
+    "unitPrice": 8,
+    "inventoryCount": 1
+},
+{
+    "name":"Everything Bagel",
+    "category":"Bagels",
+    "description": "Let our everything be your everything in the morning.",
+    "image": "https://chompies.com/wp-content/uploads/2018/04/everything-bagel-bakery-phoenix-az-chompies_ba295033418ca63ca9025fcbb2bb42b6-456x456.jpg",
+    "unit": 4,
+    "unitPrice": 10,
+    "inventoryCount": 55
+},
+{
+    "name":"Quiche Lorraine",
+    "category":"Quiche",
+    "description": "What could be better than a slice of baconny, cheesy, onion-y quiche in the morning..? Can't think of anything.",
+    "image": "https://www.seasonsandsuppers.ca/wp-content/uploads/2019/03/classic-quiche-lorraine-A.jpg",
+    "unit": 1,
+    "unitPrice": 30,
+    "inventoryCount": 6
+},
+{
+    "name":"Broccoli Cheddar Quice",
+    "category":"Quiche",
+    "description": "Go ahead, tell me veggies aren't delicious. They are when surrounded by smoke cheddar cheese and savory custard.",
+    "image": "",
+    "unit": 1,
+    "unitPrice": 32,
+    "inventoryCount": 4
+},
+{
+    "name":"Market Veggie Quiche",
+    "category":"Quiche",
+    "description": "Loaded with the freshest of the fresh veggies from the farmers' market, this quiche will get you off on the right foot.",
+    "image": "",
+    "unit": 1,
+    "unitPrice": 35,
+    "inventoryCount": 3
+}
+]
