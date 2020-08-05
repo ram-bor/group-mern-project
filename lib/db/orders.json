@@ -1,353 +1,379 @@
 [
-    {
-        "orderNumber": 14,
-        "customer": {
-            "name": "Mike Visser",
-            "address": "123 Not telling you st. Washington, DC 20001",
-            "phone": "555-555-1234"
-        },
-        "occasion": "birthday",
-        "orderInfo": [{
-            "itemName": "Celebration Cake",
-            "quantity": 1,
-            "unitPrice": 40
-        }],
-        "dueDate": "08/22/2020",
-        "subTotal": 40,
-        "tax" : 4,
-        "total": 44,
-        "status": "Confirmed"
+  {
+    "orderNumber": 14,
+    "customer": {
+      "name": "Mike Visser",
+      "address": "123 Not telling you st. Washington, DC 20001",
+      "phone": "555-555-1234"
     },
-    {
-        "orderNumber": 12,
-        "customer": {
-            "name": "Atessa Dailami",
-            "address": "233434 Somewhere St, Townsville, VA 29483",
-            "phone": "555-232-4444"
-        },
-        "occasion": "recurring",
-        "orderInfo": [{
-            "itemName": "Chocolate Chip Cookie",
-            "quantity": 2,
-            "unitPrice": 25
-        },
-        {
-            "itemName": "Sugar Cookie",
-            "quantity": 3,
-            "unitPrice": 25
-        },
-        {
-            "itemName": "Brownie",
-            "quantity": 1,
-            "unitPrice": 35
-        }],
-        "dueDate": "08/14/2020",
-        "subTotal": 155,
-        "tax" : 15.50,
-        "total": 170.50,
-        "status": "Unconfirmed"
+    "occasion": "birthday",
+    "orderInfo": [
+      {
+        "itemName": "Celebration Cake",
+        "quantity": 1,
+        "unitPrice": 40
+      }
+    ],
+    "dueDate": "08/22/2020",
+    "subTotal": 40,
+    "tax": 4,
+    "total": 44,
+    "status": "Confirmed"
+  },
+  {
+    "orderNumber": 12,
+    "customer": {
+      "name": "Atessa Dailami",
+      "address": "233434 Somewhere St, Townsville, VA 29483",
+      "phone": "555-232-4444"
     },
-    {
-        "orderNumber": 9,
-        "customer": {
-            "name": "Roberto Ramos",
-            "address":"343342 This Road, Baltimore, MD 33432",
-            "phone": "555-555-4322"
-        },
-        "occasion": "Breakfast Meeting",
-        "orderInfo": [{
-            "itemName": "Blueberry Scone",
-            "quantity": 2,
-            "unitPrice": 25
-        },
-        {
-            "itemName": "Plain Bagel",
-            "quantity": 2,
-            "unitPrice": 8
-        },
-        {
-            "itemName": "Everything Bagel",
-            "quantity": 2,
-            "unitPrice": 10
-        },
-        {
-            "itemName": "Quiche Lorraine",
-            "quantity": 1,
-            "unitPrice": 30
-        },
-        {
-            "itemName": "Cinnamon Raisin Bagel",
-            "quantity": 3,
-            "unitPrice": 16
-        }],
-        "dueDate": "08/10/202",
-        "subTotal": 164,
-        "tax" : 16.40,
-        "total": 180.40,
-        "status": "Ready"
+    "occasion": "recurring",
+    "orderInfo": [
+      {
+        "itemName": "Chocolate Chip Cookie",
+        "quantity": 2,
+        "unitPrice": 25
+      },
+      {
+        "itemName": "Sugar Cookie",
+        "quantity": 3,
+        "unitPrice": 25
+      },
+      {
+        "itemName": "Brownie",
+        "quantity": 1,
+        "unitPrice": 35
+      }
+    ],
+    "dueDate": "08/14/2020",
+    "subTotal": 155,
+    "tax": 15.5,
+    "total": 170.5,
+    "status": "Unconfirmed"
+  },
+  {
+    "orderNumber": 9,
+    "customer": {
+      "name": "Roberto Ramos",
+      "address": "343342 This Road, Baltimore, MD 33432",
+      "phone": "555-555-4322"
     },
-    {
-        "orderNumber": 15,
-        "customer": {
-            "name": "Jamel Daugerty",
-            "address": "24343 Cherry Pl. Bethesda, MD 23434",
-            "phone": "555-445-3232"
-        },
-        "occasion": "anniversary",
-        "orderInfo": [{
-            "itemName": "Black Forest Cake",
-            "quantity": 1,
-            "unitPrice": 45
-        }],
-        "dueDate": "08/09/2020",
-        "subTotal": 45,
-        "tax" : 4.50,
-        "total": 49.50,
-        "status": "Confirmed"
+    "occasion": "Breakfast Meeting",
+    "orderInfo": [
+      {
+        "itemName": "Blueberry Scone",
+        "quantity": 2,
+        "unitPrice": 25
+      },
+      {
+        "itemName": "Plain Bagel",
+        "quantity": 2,
+        "unitPrice": 8
+      },
+      {
+        "itemName": "Everything Bagel",
+        "quantity": 2,
+        "unitPrice": 10
+      },
+      {
+        "itemName": "Quiche Lorraine",
+        "quantity": 1,
+        "unitPrice": 30
+      },
+      {
+        "itemName": "Cinnamon Raisin Bagel",
+        "quantity": 3,
+        "unitPrice": 16
+      }
+    ],
+    "dueDate": "08/10/202",
+    "subTotal": 164,
+    "tax": 16.4,
+    "total": 180.4,
+    "status": "Ready"
+  },
+  {
+    "orderNumber": 15,
+    "customer": {
+      "name": "Jamel Daugerty",
+      "address": "24343 Cherry Pl. Bethesda, MD 23434",
+      "phone": "555-445-3232"
     },
-    {
-        "orderNumber": 5,
-        "customer": {
-            "name": "Noah Clark",
-            "address": "34084 House St. That City, FL",
-            "phone": "555-355-4975"
-        },
-        "occasion": "Breakfast for SEI 38",
-        "orderInfo": [{
-            "itemName": "Everything Bagel",
-            "quantity": 2,
-            "unitPrice": 10
-        },
-        {
-            "itemName": "Plain Bagel",
-            "quantity": 2,
-            "unitPrice": 8
-        },
-        {
-            "itemName": "Cinnamon Raisin Bagel",
-            "quantity": 2,
-            "unitPrice": 8
-        },
-        {
-            "itemName": "Chocolate Croissant",
-            "quantity": 4,
-            "unitPrice": 20
-        }],
-        "dueDate": "08/01/2020",
-        "subTotal": 132,
-        "tax" : 13.20,
-        "total": 145.20,
-        "status": "Delivered"
+    "occasion": "anniversary",
+    "orderInfo": [
+      {
+        "itemName": "Black Forest Cake",
+        "quantity": 1,
+        "unitPrice": 45
+      }
+    ],
+    "dueDate": "08/09/2020",
+    "subTotal": 45,
+    "tax": 4.5,
+    "total": 49.5,
+    "status": "Confirmed"
+  },
+  {
+    "orderNumber": 5,
+    "customer": {
+      "name": "Noah Clark",
+      "address": "34084 House St. That City, FL",
+      "phone": "555-355-4975"
     },
-    {
-        "orderNumber": 1,
-        "customer": {
-            "name": "Allison Johnson",
-            "address": "97 High St. London, KY 17972",
-            "phone": "655-555-2972"
-        },
-        "occasion": "none of your business",
-        "orderInfo": [{
-            "itemName": "Red Velvet Cake",
-            "quantity": 1,
-            "unitPrice": 38
-        },
-        {
-            "itemName": "Chocolate Lava Cake",
-            "quantity": 1,
-            "unitPrice": 55
-        },
-        {
-            "itemName": "Carrot Cake",
-            "quantity": 1,
-            "unitPrice": 45
-        }],
-        "dueDate": "07/15/2020",
-        "subTotal": 138,
-        "tax" : 13.80,
-        "total": 151.80,
-        "status": "Delivered"
+    "occasion": "Breakfast for SEI 38",
+    "orderInfo": [
+      {
+        "itemName": "Everything Bagel",
+        "quantity": 2,
+        "unitPrice": 10
+      },
+      {
+        "itemName": "Plain Bagel",
+        "quantity": 2,
+        "unitPrice": 8
+      },
+      {
+        "itemName": "Cinnamon Raisin Bagel",
+        "quantity": 2,
+        "unitPrice": 8
+      },
+      {
+        "itemName": "Chocolate Croissant",
+        "quantity": 4,
+        "unitPrice": 20
+      }
+    ],
+    "dueDate": "08/01/2020",
+    "subTotal": 132,
+    "tax": 13.2,
+    "total": 145.2,
+    "status": "Delivered"
+  },
+  {
+    "orderNumber": 1,
+    "customer": {
+      "name": "Allison Johnson",
+      "address": "97 High St. London, KY 17972",
+      "phone": "655-555-2972"
     },
-    {
-        "orderNumber": 4,
-        "customer": {
-            "name" : "Kira Harris",
-            "address": "4418 15th St NW Washington, DC 20010",
-            "phone": "617-555-4343"
-
-        },
-        "occasion": "Breakfast",
-        "orderInfo": [{
-            "itemName": "Quiche Lorraine",
-            "quantity": 1,
-            "unitPrice": 30
-        },
-        {
-            "itemName": "Broccoli Cheddar Quiche",
-            "quantity": 1,
-            "unitPrice": 32
-        },
-        {
-            "itemName": "Croissant",
-            "quantity": 1,
-            "unitPrice": 16
-        },
-        {
-            "itemName": "Chocolate Croissant",
-            "quantity": 1,
-            "unitPrice": 20
-        },
-        {
-            "itemName": "Cheese Danish",
-            "quantity": 2,
-            "unitPrice": 20
-        }],
-        "dueDate": "07/04/2020",
-        "subTotal": 138,
-        "tax" : 13.80,
-        "total": 151.80,
-        "status": "Delivered"
+    "occasion": "none of your business",
+    "orderInfo": [
+      {
+        "itemName": "Red Velvet Cake",
+        "quantity": 1,
+        "unitPrice": 38
+      },
+      {
+        "itemName": "Chocolate Lava Cake",
+        "quantity": 1,
+        "unitPrice": 55
+      },
+      {
+        "itemName": "Carrot Cake",
+        "quantity": 1,
+        "unitPrice": 45
+      }
+    ],
+    "dueDate": "07/15/2020",
+    "subTotal": 138,
+    "tax": 13.8,
+    "total": 151.8,
+    "status": "Delivered"
+  },
+  {
+    "orderNumber": 4,
+    "customer": {
+      "name": "Kira Harris",
+      "address": "4418 15th St NW Washington, DC 20010",
+      "phone": "617-555-4343"
     },
-    {
-        "orderNumber": 18,
-        "customer": {
-            "name": "Rex Daugherty",
-            "address": "34543 Lee Highway, Arlington VA 33342",
-            "phone": "555-353-2223"
-        },
-        "occasion": "Cupcake Party!!!1!",
-        "orderInfo": [{
-            "itemName": "Vanilla/Vanilla Cupcake",
-            "quantity": 2,
-            "unitPrice": 25
-        },{
-            "itemName": "Death by Chocolate Cupcake",
-            "quantity": 1,
-            "unitPrice": 30
-        },{
-            "itemName": "Lemon Raspberry Cupcake",
-            "quantity": 1,
-            "unitPrice": 30
-        },{
-            "itemName": "Oreo Cupcake",
-            "quantity": 3,
-            "unitPrice": 30
-        }],
-        "dueDate": "09/01/2020",
-        "subTotal": 200,
-        "tax" : 20,
-        "total": 220,
-        "status": "Unconfirmed"
+    "occasion": "Breakfast",
+    "orderInfo": [
+      {
+        "itemName": "Quiche Lorraine",
+        "quantity": 1,
+        "unitPrice": 30
+      },
+      {
+        "itemName": "Broccoli Cheddar Quiche",
+        "quantity": 1,
+        "unitPrice": 32
+      },
+      {
+        "itemName": "Croissant",
+        "quantity": 1,
+        "unitPrice": 16
+      },
+      {
+        "itemName": "Chocolate Croissant",
+        "quantity": 1,
+        "unitPrice": 20
+      },
+      {
+        "itemName": "Cheese Danish",
+        "quantity": 2,
+        "unitPrice": 20
+      }
+    ],
+    "dueDate": "07/04/2020",
+    "subTotal": 138,
+    "tax": 13.8,
+    "total": 151.8,
+    "status": "Delivered"
+  },
+  {
+    "orderNumber": 18,
+    "customer": {
+      "name": "Rex Daugherty",
+      "address": "34543 Lee Highway, Arlington VA 33342",
+      "phone": "555-353-2223"
     },
-    {
-        "orderNumber": 15,
-        "customer": {
-            "name": "Phil Visser",
-            "address": "2942 Edge St Alexandria, VA 30384",
-            "phone": "555-555-3423"
-        },
-        "occasion": "recurring",
-        "orderInfo": [{
-            "itemName": "Lemon Squares",
-            "quantity": 1,
-            "unitPrice": 38
-        },{
-            "itemName": "Key Lime Bars",
-            "quantity": 1,
-            "unitPrice": 44
-        }],
-        "dueDate": "08/25/2020",
-        "subTotal": 82,
-        "tax" : 8.20,
-        "total": 90.20,
-        "status": "Confirmed"
+    "occasion": "Cupcake Party!!!!",
+    "orderInfo": [
+      {
+        "itemName": "Vanilla/Vanilla Cupcake",
+        "quantity": 2,
+        "unitPrice": 25
+      },
+      {
+        "itemName": "Death by Chocolate Cupcake",
+        "quantity": 1,
+        "unitPrice": 30
+      },
+      {
+        "itemName": "Lemon Raspberry Cupcake",
+        "quantity": 1,
+        "unitPrice": 30
+      },
+      {
+        "itemName": "Oreo Cupcake",
+        "quantity": 3,
+        "unitPrice": 30
+      }
+    ],
+    "dueDate": "09/01/2020",
+    "subTotal": 200,
+    "tax": 20,
+    "total": 220,
+    "status": "Unconfirmed"
+  },
+  {
+    "orderNumber": 15,
+    "customer": {
+      "name": "Phil Visser",
+      "address": "2942 Edge St Alexandria, VA 30384",
+      "phone": "555-555-3423"
     },
-    {
-        "orderNumber": 11,
-        "customer": {
-            "name": "Man Person",
-            "address": "239743 Not Real St Townsville, ST 20432",
-            "phone": ""
-        },
-        "occasion": "Birthday",
-        "orderInfo": [{
-            "itemName": "Red Velvet Cake",
-            "quantity": 1,
-            "unitPrice": 38
-        }],
-        "dueDate": "08/14/2020",
-        "subTotal": 38,
-        "tax" : 3.80,
-        "total": 41.80,
-        "status": "Confirmed"
+    "occasion": "recurring",
+    "orderInfo": [
+      {
+        "itemName": "Lemon Squares",
+        "quantity": 1,
+        "unitPrice": 38
+      },
+      {
+        "itemName": "Key Lime Bars",
+        "quantity": 1,
+        "unitPrice": 44
+      }
+    ],
+    "dueDate": "08/25/2020",
+    "subTotal": 82,
+    "tax": 8.2,
+    "total": 90.2,
+    "status": "Confirmed"
+  },
+  {
+    "orderNumber": 11,
+    "customer": {
+      "name": "Man Person",
+      "address": "239743 Not Real St Townsville, ST 20432",
+      "phone": ""
     },
-    {
-        "orderNumber": "22",
-        "customer": {
-            "name": "Jack Nelson",
-            "address": "2974 Winding Brook Rd Towson, MD 20842",
-            "phone": "423-555-2321"
-        },
-        "occasion": "recurring",
-        "orderInfo": [{
-            "itemName": "Peanut Butter Cookie",
-            "quantity": 3,
-            "unitPrice": 25
-        },
-        {
-            "itemName": "Raspberry Crunch Bar",
-            "quantity": 4,
-            "unitPrice": 40
-        },
-        {
-            "itemName": "Brownie",
-            "quantity": 2,
-            "unitPrice": 35
-        },
-        {
-            "itemName": "Corn Cookie",
-            "quantity": 1,
-            "unitPrice": 25
-        },
-        {
-            "itemName": "Snickerdoodle",
-            "quantity": 4,
-            "unitPrice": 25
-        }],
-        "dueDate": "08/7/2020",
-        "subTotal": 430,
-        "tax" : 43,
-        "total": 473,
-        "status": "Ready"
+    "occasion": "Birthday",
+    "orderInfo": [
+      {
+        "itemName": "Red Velvet Cake",
+        "quantity": 1,
+        "unitPrice": 38
+      }
+    ],
+    "dueDate": "08/14/2020",
+    "subTotal": 38,
+    "tax": 3.8,
+    "total": 41.8,
+    "status": "Confirmed"
+  },
+  {
+    "orderNumber": "22",
+    "customer": {
+      "name": "Jack Nelson",
+      "address": "2974 Winding Brook Rd Towson, MD 20842",
+      "phone": "423-555-2321"
     },
-    {
-        "orderNumber": 32,
-        "customer": {
-            "name": "Anthony Maddox",
-            "address": "287322 Blossom Blvd. Falls Church, VA 08423",
-            "phone": "293-555-2083"
-        },
-        "occasion": "taco party",
-        "orderInfo": [{
-            "itemName": "Corn Cokie",
-            "quantity": 1,
-            "unitPrice": 25
-        },
-        {
-            "itemName": "Oreo Cupcake",
-            "quantity": 2,
-            "unitPrice": 30
-        },
-        {
-            "itemName": "Sugar Cookie",
-            "quantity": 1,
-            "unitPrice": 25
-        }],
-        "dueDate": "08/08/2020",
-        "subTotal": 110,
-        "tax" : 11,
-        "total": 121,
-        "status": "Ready"
-    }
-    
+    "occasion": "recurring",
+    "orderInfo": [
+      {
+        "itemName": "Peanut Butter Cookie",
+        "quantity": 3,
+        "unitPrice": 25
+      },
+      {
+        "itemName": "Raspberry Crunch Bar",
+        "quantity": 4,
+        "unitPrice": 40
+      },
+      {
+        "itemName": "Brownie",
+        "quantity": 2,
+        "unitPrice": 35
+      },
+      {
+        "itemName": "Corn Cookie",
+        "quantity": 1,
+        "unitPrice": 25
+      },
+      {
+        "itemName": "Snickerdoodle",
+        "quantity": 4,
+        "unitPrice": 25
+      }
+    ],
+    "dueDate": "08/7/2020",
+    "subTotal": 430,
+    "tax": 43,
+    "total": 473,
+    "status": "Ready"
+  },
+  {
+    "orderNumber": 32,
+    "customer": {
+      "name": "Anthony Maddox",
+      "address": "287322 Blossom Blvd. Falls Church, VA 08423",
+      "phone": "293-555-2083"
+    },
+    "occasion": "taco party",
+    "orderInfo": [
+      {
+        "itemName": "Corn Cookie",
+        "quantity": 1,
+        "unitPrice": 25
+      },
+      {
+        "itemName": "Oreo Cupcake",
+        "quantity": 2,
+        "unitPrice": 30
+      },
+      {
+        "itemName": "Sugar Cookie",
+        "quantity": 1,
+        "unitPrice": 25
+      }
+    ],
+    "dueDate": "08/08/2020",
+    "subTotal": 110,
+    "tax": 11,
+    "total": 121,
+    "status": "Ready"
+  }
 ]
