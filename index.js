@@ -6,6 +6,8 @@ const bodyParser = require("body-parser");
 
 app.use(bodyParser.json());
 
+app.use(cors());
+
 // create routes
 app.use(require("./lib/routes/route-index"));
 app.use(require("./lib/routes/order-route"));
