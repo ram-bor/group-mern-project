@@ -1,4 +1,6 @@
 const app = require("express")();
+const Item = require("./lib/models/Item");
+const Order = require("./lib/models/Order");
 const itemController = require("./lib/controllers/item-controller");
 const orderController = require("./lib/controllers/order-controller");
 const cors = require("cors");
