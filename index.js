@@ -1,14 +1,15 @@
 const app = require("express")();
-const Item = require("./models/Item");
-const Order = require("./models/Order");
+const itemController = require("./lib/controllers/item-controller");
+const orderController = require("./lib/controllers/order-controller");
+const cors = require("cors");
 const bodyParser = require("body-parser");
 
 app.use(bodyParser.json());
 
 // create routes
-app.use(require("./routes/route-index"));
-app.use(require("./routes/order-route"));
-app.use(require("./routes/item-route"));
+app.use(require("./lib/routes/route-index"));
+app.use(require("./lib/routes/order-route"));
+app.use(require("./lib/routes/item-route"));
 
 // set up Heroku's production port + local development port
 app.set("port", process.env.PORT || 8000);
