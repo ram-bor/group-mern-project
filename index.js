@@ -5,13 +5,14 @@ const itemController = require("./lib/controllers/item-controller");
 const orderController = require("./lib/controllers/order-controller");
 const cors = require("cors");
 const bodyParser = require("body-parser");
-const passport = require('./lib/config/passport')()
-const userController = require('./lib/controllers/userController')
+const passport = require("./lib/config/passport")();
+const userController = require("./lib/controllers/userController");
 
 app.use(bodyParser.json());
-app.use(passport.initialize())
+app.use(passport.initialize());
 app.use(cors());
-app.use('/users', userController)
+app.use("/users", userController);
+app.use("/docs", express.static("doc"));
 
 // create routes
 app.use(require("./lib/routes/route-index"));
