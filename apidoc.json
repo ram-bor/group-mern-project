@@ -1,3 +1,11 @@
 {
-  "name": "bakery-api"
+  "name": "bakery-api",
+  "title": "Bakery Api",
+  "order": [
+    "GetOrder",
+    "GetCustomers",
+    "PostOrder",
+    "PutOrder",
+    "DeleteOrder"
+  ]
 }
