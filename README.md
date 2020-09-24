@@ -31,7 +31,7 @@ Added multiple HTTP methods to implement CRUD by setting up appropriate route pa
 * Deployed Heroku App: https://group-project-mern-backend.herokuapp.com/item  (Item Catalog)
 * Deployed Heroku App: https://group-project-mern-backend.herokuapp.com/order  (Order Catalog)
 
-###### Items:
+###### Item Routes:
 ```
 router.get("/item", itemController.showItems);
 router.get("/item/name/:name", itemController.showName);
@@ -43,7 +43,7 @@ router.delete("/item/name/:name", itemController.remove);
 router.delete("/item/category/:category", itemController.removebyCategory);
 ```
 
-###### Orders: 
+###### Order Routes: 
 
 ```
 router.get("/order", orderController.showOrders);
