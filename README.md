@@ -28,6 +28,9 @@ Added multiple HTTP methods to implement CRUD by setting up appropriate route pa
 
 #### Full CRUD capability:
 
+Deployed Heroku App: https://group-project-mern-backend.herokuapp.com/item  (Item Catalog)
+Deployed Heroku App: https://group-project-mern-backend.herokuapp.com/order  (Order Catalog)
+
 ###### Items:
 ```
 router.get("/item", itemController.showItems);
