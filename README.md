@@ -2,6 +2,8 @@
 
 Designed a backend application to hold locally created API data to be used for Frontend application.
 
+Frontend repo can be found here: https://github.com/AtessaLeila/project8-mern-frontend
+
 <img width="682" alt="Screen Shot 2020-09-18 at 2 18 16 PM" src="https://user-images.githubusercontent.com/66038058/93647587-be585900-f9d6-11ea-9ed2-42fb7c762fbd.png">
 
 
