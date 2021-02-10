@@ -2,6 +2,12 @@
 
 Designed a back end application to hold locally created API data using Node, Express, and Mongoose.
 
+# Installations
+
+- Mongoose
+- Express
+- Node
+
 # Database
 
 Created files to hold JSON data for order catalog and items
