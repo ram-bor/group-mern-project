@@ -15,19 +15,6 @@ Frontend repo can be found here: https://github.com/AtessaLeila/project8-mern-fr
 * ExpressJS
 * NodeJS
 
-## Database
-Created files to hold JSON data for orders and items
-Created files to import, connect and seed database
-
-## Schema/Models
-Created directories to hold model/routes files
-Created relevant schemas for models to be exported with appropriate data validation types
-
-## Controllers/Routes
-Added multiple HTTP methods to implement CRUD by setting up appropriate route paths
-
-## API Routes
-
 #### Full CRUD capability:
 
 * Deployed Heroku App: https://group-project-mern-backend.herokuapp.com/item  (Item Catalog)
