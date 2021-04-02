@@ -1,6 +1,6 @@
 # Order Porter 
 
-Designed a backend application to hold host data to be used for Frontend application. Users can view and select to see item inventory and manage order status.
+Designed a backend application that hosts user, order and inventory data for 'Narwhal Bakery'. Users can view and select to see item inventory and manage order status.
 
 Frontend repo can be found here: https://github.com/AtessaLeila/project8-mern-frontend
 
